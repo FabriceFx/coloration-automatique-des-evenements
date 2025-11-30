@@ -1,8 +1,9 @@
-# Google Agenda - Coloration Automatique des Événements
+# Google Agenda - Coloration automatique des événements
+
+![License MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Google%20Apps%20Script-green)
 
 **Auteur :** Fabrice Faucheux  
-**Licence :** MIT  
-**Version :** 1.0.0
 
 ## Description
 Ce projet Google Apps Script permet de changer automatiquement la couleur des événements de l'agenda principal de l'utilisateur en fonction de mots-clés présents dans le titre. Le script analyse les événements sur une fenêtre glissante de 30 jours pour assurer une mise à jour continue du planning.
